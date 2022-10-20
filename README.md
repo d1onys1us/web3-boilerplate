@@ -20,4 +20,6 @@ There are four source code folders, whose imports are directionally enforced by 
 
 `core` -> `components` / `lib` -> `pages`
 
-It is taken from this blog post on [a scalable nextjs project structure](https://giancarlobuomprisco.com/next/a-scalable-nextjs-project-structure).
+![nextjs onion folder structure](./nextjs-folder-structure-onion.png)
+
+This is taken from this blog post on [a scalable nextjs project structure](https://giancarlobuomprisco.com/next/a-scalable-nextjs-project-structure).
